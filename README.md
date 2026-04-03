@@ -140,19 +140,4 @@ Make sure you have the following installed on your machine:
 
 All product data is stored in the browser's localStorage. Data persists across page refreshes and browser sessions. To clear all data, clear your browser's localStorage for the site.
 
-## Scripts
 
-| Command | Description |
-|---------|-------------|
-| `npm run dev` | Start development server |
-| `npm run build` | Build for production |
-| `npm run start` | Start production server |
-| `npm run lint` | Run ESLint |
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## Author
-
-Built as part of a web development assessment project.

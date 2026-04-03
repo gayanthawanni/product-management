@@ -33,6 +33,10 @@ A modern, full-featured product management dashboard built with Next.js 15, feat
 - **Language:** TypeScript
 - **Icons:** Lucide React
 
+  ## Demo Video
+
+[Watch Demo Video](./demo-video.mp4)
+
 ## Getting Started
 
 ### Prerequisites

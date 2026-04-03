@@ -35,7 +35,7 @@ A modern, full-featured product management dashboard built with Next.js 15, feat
 
   ## Demo Video
 
-[Watch Demo Video](./demo-video.mp4)
+[Watch Demo Video](https://drive.google.com/file/d/1vyLiMy_w55hXh9EbfZsVXB72Z_GAEr1r/view?usp=sharing)
 
 ## Getting Started
 
